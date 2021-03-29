@@ -1,0 +1,3 @@
+include ':adx'
+include ':common'
+//rootProject.name='ExpandableListSampleWithRoom'
